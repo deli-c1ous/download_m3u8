@@ -1,6 +1,7 @@
-# download_m3u8
+# download m3u8
 download m3u8 videos using python
-## Requirement
+
+## Requirements
 ffmpeg (with environment variables configured)
 
 `pip install m3u8 pycryptodomex tqdm aiohttp`
